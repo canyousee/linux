@@ -10,7 +10,8 @@
 
 ##
 
-##二、实验过程
+二、实验过程
+
 1.安装Ubuntu系统虚拟机，使用两个网卡，安装opensssh-server
 ![](https://github.com/canyousee/linux/raw/master/image/host.PNG)
 
@@ -132,7 +133,7 @@ vim isolinux/txt.cfg
 ![](https://github.com/canyousee/linux/raw/master/image/1.7.PNG)
 
 ---
-四、参考
+##四、参考
 
 [https://www.centos.org/docs/5/html/Deployment_Guide-en-US/ch-lvm.html](https://www.centos.org/docs/5/html/Deployment_Guide-en-US/ch-lvm.html "LVM")
 
