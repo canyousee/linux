@@ -1,2 +1,1 @@
-# linux
-学习Linux
+"# 2015-linux-private-canyousee" 

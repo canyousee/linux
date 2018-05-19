@@ -1,0 +1,2 @@
+/var/nfs/general 192.168.56.201(rw,sync)
+/home 192.168.56.201(sync,no_root_squash,no_subtree_check)
